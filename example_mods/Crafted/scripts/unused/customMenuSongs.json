@@ -1,0 +1,74 @@
+[
+	{
+		"name" : "steve",
+		"difficulty" : 6,
+		"info" : "Song by Luminus\nChart by LiterallyPio\nArt by kurkid, enlwla444, ShanicMCA",
+		"icon" : "dadpixel",
+		"render" : {
+			"name" : "steve",
+			"x" : -100,
+			"y" : 100,
+			"scale" : 0.45
+		}
+	},
+	{
+		"name" : "bountiful",
+		"difficulty" : 14,
+		"info" : "Song by Luminus ft. N/A Music\nChart by Cheesycap\nArt by Hnwoo, kurkid, enlwla444, ShanicMCA",
+		"icon" : "mommypixel",
+		"render" : {
+			"name" : "alex",
+			"x" : -80,
+			"y" : 150,
+			"scale" : 0.55
+		}
+	},
+	{
+		"name" : "first-night",
+		"difficulty" : 3,
+		"info" : "Song by N/A Music\nChart by CheesyCap\nArt by CheesyCap, kurkid, enlwla444, ShanicMCA",
+		"icon" : "zombiepixel",
+		"render" : {
+			"name" : "zombie",
+			"x" : -115,
+			"y" : 120,
+			"scale" : 0.49
+		}
+	},
+	{
+		"name" : "blockbuster",
+		"difficulty" : 14,
+		"info" : "Song by Luminus ft. N/A Music\nChart by Napstabeats\nArt by ShanicMCA, kurkid, enlwla444",
+		"icon" : "zombiepixel",
+		"render" : {
+			"name" : "jack",
+			"x" : -110,
+			"y" : 140,
+			"scale" : 0.5
+		}
+	},
+	{
+		"name" : "papaya",
+		"difficulty" : 10,
+		"info" : "Song by N/A Music\nChart by CheesyCap\nArt by LiterallyPio, enlwla444, ShanicMCA",
+		"icon" : "amoguspixel",
+		"render" : {
+			"name" : "amogus",
+			"x" : -140,
+			"y" : 120,
+			"scale" : 0.4
+		}
+	},
+	{
+		"name" : "Coming soon",
+		"difficulty" : -1,
+		"info" : "Coming soon",
+		"icon" : "",
+		"render" : {
+			"name" : "v2",
+			"x" : -130,
+			"y" : 90,
+			"scale" : 0.26
+		}
+	}
+]

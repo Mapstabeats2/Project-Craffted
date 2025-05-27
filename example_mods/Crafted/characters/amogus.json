@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE"
+		},
+		{
+			"offsets": [13, 2],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [-5, -9],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [126, 27],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "HEY"
+		},
+		{
+			"offsets": [13, -11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [126, 27],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/amogus",
+	"position": [80, 520],
+	"healthicon": "amogus",
+	"flip_x": false,
+	"healthbar_colors": [255, 71, 71],
+	"camera_position": [0, -30],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

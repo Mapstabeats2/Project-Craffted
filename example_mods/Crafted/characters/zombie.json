@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "poses/left"
+		},
+		{
+			"offsets": [13, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "poses/down"
+		},
+		{
+			"offsets": [23, -5],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "poses/up"
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idleStatic",
+			"fps": 24,
+			"name": "poses/idle 2 frames",
+			"indices": []
+		},
+		{
+			"offsets": [11, -8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7],
+			"name": "poses/right"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "poses/idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/zombie",
+	"position": [220, 740],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [108, 141, 88],
+	"camera_position": [-100, -220],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

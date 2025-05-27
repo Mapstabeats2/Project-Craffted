@@ -1,0 +1,2 @@
+v1 = intensity. between 0 and 1
+v2 = duration in seconds, ease

@@ -1,0 +1,13 @@
+{
+	"player1": "nobody",
+	"player2": "nobody",
+	"events": [],
+	"notes": [],
+	"gfVersion": "gf",
+	"song": "Bountiful",
+	"needsVoices": false,
+	"stage": "customMenu",
+	"format": "psych_v1_convert",
+	"bpm": 102,
+	"speed": 1
+}

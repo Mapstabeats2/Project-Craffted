@@ -1,0 +1,31 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [70, 82],
+			"anim": "Countdown",
+			"fps": 24,
+			"name": "countdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [66, 45],
+			"anim": "Ending",
+			"fps": 24,
+			"name": "end",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/jacksteve-alts",
+	"position": [0, 0],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [122, 199, 221],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

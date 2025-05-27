@@ -1,0 +1,51 @@
+Pls message me (CheesyCap) if I missed credits or should remove credits/links
+
+You should have a Discord account and be in Psych Ward Discord server to access some scripts
+https://discord.gg/psychengine
+
+
+Custom menu inspirations and menuLock scripts from 15lukas by mrmeep64
+https://gamebanana.com/mods/529487
+https://twitter.com/mrmeep64
+
+neocam by cyn0x8. lil modified by ipe. Taken from FNF From The Top
+https://x.com/cyn0x8
+
+Z Camera Fix by Raltyro
+https://github.com/Raltyro
+
+V-Slice Hold Cover/Splash by Juann
+[scripts/V-Slice Hold Splash.lua]
+https://discord.com/channels/922849922175340586/1307481111651155968
+https://www.youtube.com/@Juann123
+
+Vanilla (V-Slice) HUD by Icaro lee
+[scripts/VanillaHoldAnims and SmoothHealthbar.lua]
+https://discord.com/channels/922849922175340586/1320411998692970516
+https://x.com/icarolee2
+
+adjustColor shader fix by betpowo
+https://betpowo.github.io/
+
+
+ 
+
+Special thanks
+
+FNF From The Top
+https://gamebanana.com/mods/578670
+
+Psych Engine
+https://gamebanana.com/mods/309789
+
+Friday Night Funkin'
+https://ninja-muffin24.itch.io/funkin
+
+15lukas
+https://gamebanana.com/mods/529487
+
+17 Bucks
+https://gamebanana.com/mods/461390
+
+data5
+cyachao

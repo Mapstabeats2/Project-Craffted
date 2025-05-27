@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [25, 25],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [308, 6],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SING_Left"
+		},
+		{
+			"offsets": [-2, 21],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SING_Right"
+		},
+		{
+			"offsets": [31, 129],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SING_Up"
+		},
+		{
+			"offsets": [178, 5],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+			"name": "SING_Down"
+		},
+		{
+			"offsets": [25, 25],
+			"loop": false,
+			"fps": 24,
+			"anim": "Countdown",
+			"indices": [],
+			"name": "INTRO_Countdown"
+		},
+		{
+			"offsets": [25, 25],
+			"loop": false,
+			"fps": 24,
+			"anim": "Ending",
+			"indices": [],
+			"name": "OUTRO"
+		},
+		{
+			"offsets": [178, 5],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SING_Down"
+		},
+		{
+			"offsets": [31, 129],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "SING_Up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/jack_steve",
+	"position": [-30, 50],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [122, 199, 221],
+	"camera_position": [150, 320],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

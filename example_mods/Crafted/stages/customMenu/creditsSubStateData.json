@@ -1,0 +1,14 @@
+[
+    {
+        "name" : "LiterallyPio",
+        "desc" : "Director, Animator, Charter",
+        "icon" : "pio",
+        "url" : "https://x.com/literallypio"
+    },
+	{
+		"name" : "CheesyCap",
+		"desc" : "Programmer, Animator, Pixel Animator, Charter",
+		"icon" : "yellow-protogen",
+		"url" : "https://www.youtube.com/@CheesyCap"
+	}
+]
